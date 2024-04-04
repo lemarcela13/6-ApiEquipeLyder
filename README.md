@@ -19,7 +19,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 Sprint | Previsão | Status|
 |------|--------|------|
 |Kick Off | dd/mm/aaaa | concluido|
-|01 | dd/mm/aaaa | concluido|
+|01 | 03/mm/aaaa | concluido|
 |02|  dd/mm/aaaa| em progresso |
 |03| dd/mm/aaaa | a fazer|
 |04| dd/mm/aaaa |a fazer |
