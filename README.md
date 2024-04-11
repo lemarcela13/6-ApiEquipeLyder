@@ -18,12 +18,11 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 Sprint | Previsão | Status|
 |------|--------|------|
-|Kick Off | dd/mm/aaaa | concluido|
-|01 | 03/mm/aaaa | concluido|
-|02|  dd/mm/aaaa| em progresso |
-|03| dd/mm/aaaa | a fazer|
-|04| dd/mm/aaaa |a fazer |
-|Feira de Soluções|dd/mm/aaaa |a fazer |
+|Kick Off | 10/04/2024 | concluido|
+|01 | 08/05/2024 | em progresso|
+|02|  29/05/2024| a fazer |
+|03| 19/06/2024 | a fazer|
+|Feira de Soluções|27/06/2024 |a fazer |
 
 
 
