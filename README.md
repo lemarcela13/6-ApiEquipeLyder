@@ -29,12 +29,10 @@ Sprint | Previsão | Status|
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+O projeto tem como objetivo em análisar a produtividade de veículos e custos de rotas de uma empresa envasadora de bebidas, na qual foi passado alguns desafios com ferramentas de análises de dados. 
+Desde a criação e modelagem dos dados em SQL e um dashboard para visualização de indicadores em BI. 
+
+Será necessário subir a documentação no Github e Gestão de projetos desenvolvidas o Jira Software. 
 
 # Funcionalidades e registros (vídeos e apresentações) das sprints
 
