@@ -41,15 +41,8 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 
 Adicionar video e documentos nessa seção
 
-4º Semestre:
 
 [1º Sprint Freudenberg](https://youtu.be/goN_13rpLbw)
-
-[2º Sprint Freudenberg](https://youtu.be/YPi-wHzgK1Q)
-
-[3º Sprint Freudenberg](https://youtu.be/gBNGh9h_upk)
-
-
 
 
 
@@ -57,8 +50,7 @@ Adicionar video e documentos nessa seção
 * Power BI
 * Microsoft Excel
 * Slack
-
-
+* SQL
 
 # Backlog do produto
 
