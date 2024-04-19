@@ -55,15 +55,15 @@ Adicionar video e documentos nessa seção
 # Backlog do produto
 
 ## Sprint 1. Concepção
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [x] Alinhamento e discussão de projeto;
+- [x] Criação repositório GITHUB;
+- [x] Formalização da gestão do projeto no Jira Software;
+- [ ] Elaboração BackLog do projeto;
+- [ ] Validação BackLog com cliente;
+- [ ] Tratativa na base de dados;
+- [ ] Criação do banco de dados em SQL;
+- [ ] Esboço do layout do Power BI;
+- [ ] Apresentação  SPRINT 1.
 
 ## Sprint 2. Desenvolvimento do Projeto
 - [ ] Documento passo a passo;
