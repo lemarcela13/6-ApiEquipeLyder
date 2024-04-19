@@ -66,22 +66,20 @@ Adicionar video e documentos nessa seção
 - [ ] Apresentação  SPRINT 1.
 
 ## Sprint 2. Desenvolvimento do Projeto
-- [ ] Documento passo a passo;
-- [ ] Vídeo passo a passo;
-- [ ] Treinamento com os professores;
-- [ ] Treinamento com os alunos;
-- [ ] Monitoramento e ajustes.
+- [ ] Alinhamento e feedback;
+- [ ] Dashbord de produtividade mensal de veiculos;
+- [ ] Dashbord evolução de custo por unidade transportada de cada rota;
+- [ ] Gerenciamento projeto Jira;
+- [ ] Atualização repositorio GITHUB.
+- [ ]  Apresentação  SPRINT 2
       
 ## Sprint 3 . Implementação
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [ ] Alinhamento e feedback;
+- [ ] Dashbord de evolução de custo por km;
+- [ ] Gerenciamento projeto Jira;
+- [ ] Atualização repositorio GITHUB;
+- [ ] Apresentação  SPRINT 3;
+
       
 ## Sprint 4. Operacionalização
 - [x] Defina o propósito do template;
