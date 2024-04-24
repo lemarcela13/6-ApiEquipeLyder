@@ -80,20 +80,7 @@ Adicionar video e documentos nessa seção
 - [ ] Atualização repositorio GITHUB;
 - [ ] Apresentação  SPRINT 3;
 
-      
-## Sprint 4. Operacionalização
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
-
-
-
+    
   
 # Competências desenvolvidas
 
