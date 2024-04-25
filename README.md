@@ -58,8 +58,8 @@ Adicionar video e documentos nessa seção
 - [x] Alinhamento e discussão de projeto;
 - [x] Criação repositório GITHUB;
 - [x] Formalização da gestão do projeto no Jira Software;
-- [ ] Elaboração BackLog do projeto;
-- [ ] Validação BackLog com cliente;
+- [X] Elaboração BackLog do projeto;
+- [X] Validação BackLog com cliente;
 - [ ] Tratativa na base de dados;
 - [ ] Criação do banco de dados em SQL;
 - [ ] Esboço do layout do Power BI;
