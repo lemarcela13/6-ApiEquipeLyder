@@ -1,4 +1,5 @@
 
+![Beige Minimalist Lines Family Tree](https://github.com/lemarcela13/6-Apiequipelyder/assets/165965679/0df4f0ce-3d47-4d55-acca-5155b44773d6)
 
 # Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
