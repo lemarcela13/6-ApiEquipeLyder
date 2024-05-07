@@ -1,6 +1,5 @@
 ![Pink Minimalist Digital Marketing Presentation](https://github.com/lemarcela13/6-Apiequipelyder/assets/144287790/7aeb3680-9abb-4e54-a325-4a16d661531d)
-![2](https://github.com/lemarcela13/6-Apiequipelyder/assets/144287790/e47bbffb-62bd-405e-bf33-791a6e8069f5)
-  
+
 ![1](https://github.com/lemarcela13/6-Apiequipelyder/assets/144287790/0a5d3879-f59d-4653-8e49-4e91f8bd045d)
 
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
