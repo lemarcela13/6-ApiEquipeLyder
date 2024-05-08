@@ -27,7 +27,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 ![Pink Minimalist Digital Marketing Presentation (1)](https://github.com/lemarcela13/6-Apiequipelyder/assets/144287790/596d7505-644f-48b8-9fa3-0fbe55dc90f2)
 
 
-Sprint | Previsão | Status|
+SPRINT | PREVISÃO | STATUS|
 |------|--------|------|
 |Kick Off | 10/04/2024 | concluido|
 |01 | 08/05/2024 | em progresso|
@@ -50,9 +50,6 @@ Será necessário subir a documentação no Github e Gestão de projetos desenvo
 Apresentação das funcionalidades
 Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
 
-Adicionar video e documentos nessa seção
-
-
 [DashBoard Power BI](https://app.powerbi.com/groups/me/reports/16d3c879-e626-4995-b1b8-654090317ad2/ReportSection?experience=power-bi)
 
 
@@ -69,7 +66,10 @@ Adicionar video e documentos nessa seção
 
 ![9](https://github.com/lemarcela13/6-Apiequipelyder/assets/144287790/7c564507-90d7-44c7-815e-56b89ef5f68a)
 
+<details>
+<summary>SPRINT 1</summary>
 
+      
 - [x] Alinhamento e discussão de projeto;
 - [x] Criação repositório GITHUB;
 - [x] Formalização da gestão do projeto no Jira Software;
@@ -79,9 +79,14 @@ Adicionar video e documentos nessa seção
 - [x] Criação do banco de dados em SQL;
 - [x] Esboço do layout do Power BI;
 - [ ] Apresentação  SPRINT 1.
-
+      
+ </details>     
+ 
 ![10](https://github.com/lemarcela13/6-Apiequipelyder/assets/144287790/6a570e79-02d8-41b8-a226-d9a056f24b8c)
 
+
+ <details>
+<summary>SPRINT 2</summary>
 
 - [ ] Alinhamento e feedback;
 - [ ] Dashbord de produtividade mensal de veiculos;
@@ -89,17 +94,25 @@ Adicionar video e documentos nessa seção
 - [ ] Gerenciamento projeto Jira;
 - [ ] Atualização repositorio GITHUB.
 - [ ]  Apresentação  SPRINT 2
-      
+
+</details>  
+
 ![11](https://github.com/lemarcela13/6-Apiequipelyder/assets/144287790/dfb3b873-2f27-4d52-81ba-fa5cc5c7b45e)
 
-
+<details>
+<summary>SPRINT 3</summary>
+      
 - [ ] Alinhamento e feedback;
 - [ ] Dashbord de evolução de custo por km;
 - [ ] Gerenciamento projeto Jira;
 - [ ] Atualização repositorio GITHUB;
 - [ ] Apresentação  SPRINT 3;
 
-    
+ </details>
+
+
+
+ 
   
 ![12](https://github.com/lemarcela13/6-Apiequipelyder/assets/144287790/f685df0e-29c7-4e3e-888b-f594c9119fee)
 
@@ -113,12 +126,12 @@ Adicionar video e documentos nessa seção
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-| GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Jira Software| ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| My SQL | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Power BI| ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Slack | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Office | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| GitHub | ★ ★ ★ ★ ★  |
+| Jira Software| ★ ★ ☆ ☆ ☆ |
+| My SQL | ★ ★ ★ ★ ★  |
+| Power BI| ★ ★ ★ ★ ★ |
+| Slack | ★ ★ ★ ★ ☆ |
+| Office | ★ ★ ★ ★ ★ |
 
  
 </details>
@@ -131,12 +144,12 @@ Adicionar video e documentos nessa seção
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-| Colaboração | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
-| Proatividade| ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Resiliência | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Colaboração | ★ ★ ★ ★ ★ |
+| Proatividade| ★ ★ ★ ★ ☆ |
+| Pensamento Crítico | ★ ★ ★ ★ ☆|
+| Gerenciamento de Tempo | ★ ★ ★ ☆ ☆ |
+| Adaptabilidade | ★ ★ ★ ☆ ☆ |
+| Resiliência | ★ ★ ★ ★ ☆ |
 
 
 
