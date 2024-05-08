@@ -24,6 +24,9 @@ Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focad
 Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
 Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints
 
+![Pink Minimalist Digital Marketing Presentation (1)](https://github.com/lemarcela13/6-Apiequipelyder/assets/144287790/596d7505-644f-48b8-9fa3-0fbe55dc90f2)
+
+
 Sprint | Previsão | Status|
 |------|--------|------|
 |Kick Off | 10/04/2024 | concluido|
@@ -50,7 +53,7 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 Adicionar video e documentos nessa seção
 
 
-[1º Sprint Freudenberg](https://app.powerbi.com/groups/me/reports/16d3c879-e626-4995-b1b8-654090317ad2/ReportSection?experience=power-bi)
+[DashBoard Power BI](https://app.powerbi.com/groups/me/reports/16d3c879-e626-4995-b1b8-654090317ad2/ReportSection?experience=power-bi)
 
 
 
@@ -133,5 +136,8 @@ Adicionar video e documentos nessa seção
 | Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Resiliência | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+
+![15](https://github.com/lemarcela13/6-Apiequipelyder/assets/144287790/85568e98-6334-4c3d-b543-b3bf466cf0f0)
+
 
 </details>
