@@ -118,6 +118,7 @@ Adicionar video e documentos nessa seção
 | My SQL | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Power BI| ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Slack | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Office | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 
  
 </details>
@@ -137,7 +138,8 @@ Adicionar video e documentos nessa seção
 | Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Resiliência | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 
-![15](https://github.com/lemarcela13/6-Apiequipelyder/assets/144287790/85568e98-6334-4c3d-b543-b3bf466cf0f0)
 
 
 </details>
+
+![Pink Minimalist Digital Marketing Presentation (2)](https://github.com/lemarcela13/6-Apiequipelyder/assets/144287790/f065a5fd-9905-4382-a6f2-cc905c3365ab)
