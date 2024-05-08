@@ -17,6 +17,7 @@
 * Funcionalidades e registros (vídeos e apresentações) das sprints
 * Backlog do produto
 * Competências desenvolvidas
+* Tecnologias utilizadas
 
   
 ![4](https://github.com/lemarcela13/6-Apiequipelyder/assets/144287790/48318cd8-3417-4f29-bba8-74a76f4c7afd)
