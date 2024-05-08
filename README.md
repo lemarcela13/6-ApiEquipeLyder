@@ -72,9 +72,9 @@ Adicionar video e documentos nessa seção
 - [x] Formalização da gestão do projeto no Jira Software;
 - [X] Elaboração BackLog do projeto;
 - [X] Validação BackLog com cliente;
-- [ ] Tratativa na base de dados;
-- [ ] Criação do banco de dados em SQL;
-- [ ] Esboço do layout do Power BI;
+- [x] Tratativa na base de dados;
+- [x] Criação do banco de dados em SQL;
+- [x] Esboço do layout do Power BI;
 - [ ] Apresentação  SPRINT 1.
 
 ![10](https://github.com/lemarcela13/6-Apiequipelyder/assets/144287790/6a570e79-02d8-41b8-a226-d9a056f24b8c)
@@ -111,11 +111,11 @@ Adicionar video e documentos nessa seção
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
 | GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Gestão de Projetos | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Scrum Master | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Markdown | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Git Projects | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Jira Software| ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| My SQL | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Power BI| ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Slack | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+
  
 </details>
 
