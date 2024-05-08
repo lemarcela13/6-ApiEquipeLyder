@@ -13,11 +13,12 @@
 ![3](https://github.com/lemarcela13/6-Apiequipelyder/assets/144287790/440bdef3-3a78-4c9d-ad91-25864a5bec6a)
 
 
-* [Objetivo do Projeto](##![5])
-* [Funcionalidades e registros (vídeos e apresentações) das sprints](#funcionalidades-e-registros-(vídeos-e-apresentações)-das-sprints)
-* [Backlog do produto](#Backlog-do-produto)
-* [Competências desenvolvidas](#competências-desenvolvidas)
+* Objetivo do Projeto
+* Funcionalidades e registros (vídeos e apresentações) das sprints
+* Backlog do produto
+* Competências desenvolvidas
 
+  
 ![4](https://github.com/lemarcela13/6-Apiequipelyder/assets/144287790/48318cd8-3417-4f29-bba8-74a76f4c7afd)
 
 Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
@@ -36,7 +37,7 @@ SPRINT | PREVISÃO | STATUS|
 |Feira de Soluções|27/06/2024 |a fazer |
 
 
-#![5](https://github.com/lemarcela13/6-Apiequipelyder/assets/144287790/2d3b1931-ec68-41fe-b939-f3121e0b2b08)
+![5](https://github.com/lemarcela13/6-Apiequipelyder/assets/144287790/2d3b1931-ec68-41fe-b939-f3121e0b2b08)
 
 
 O projeto tem como objetivo em análisar a produtividade de veículos e custos de rotas de uma empresa envasadora de bebidas, na qual foi passado alguns desafios com ferramentas de análises de dados. 
