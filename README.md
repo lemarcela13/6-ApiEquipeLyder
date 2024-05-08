@@ -50,7 +50,7 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 Adicionar video e documentos nessa seção
 
 
-[1º Sprint Freudenberg](https://youtu.be/goN_13rpLbw)
+[1º Sprint Freudenberg]([https://youtu.be/goN_13rpLbw](https://app.powerbi.com/groups/me/reports/16d3c879-e626-4995-b1b8-654090317ad2/ReportSection?experience=power-bi))
 
 
 
