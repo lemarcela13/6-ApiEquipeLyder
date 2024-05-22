@@ -32,8 +32,8 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 SPRINT | PREVISÃO | STATUS|
 |------|--------|------|
 |Kick Off | 10/04/2024 | concluido|
-|01 | 08/05/2024 | em progresso|
-|02|  29/05/2024| a fazer |
+|01 | 08/05/2024 | concluido|
+|02|  29/05/2024| em progresso |
 |03| 19/06/2024 | a fazer|
 |Feira de Soluções|27/06/2024 |a fazer |
 
