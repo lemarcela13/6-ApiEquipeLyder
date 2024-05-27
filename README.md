@@ -52,7 +52,7 @@ Será necessário subir a documentação no Github e Gestão de projetos desenvo
 Apresentação das funcionalidades
 Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
 
-[DashBoard Power BI](https://app.powerbi.com/groups/me/reports/16d3c879-e626-4995-b1b8-654090317ad2/ReportSection?experience=power-bi)
+[DashBoard Power BI](https://app.powerbi.com/groups/me/reports/84d89072-49c6-43f0-b517-0aeecdbc367e/ReportSectionf355b218ebc7083ee499?experience=power-bi)
 
 
 
