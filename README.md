@@ -137,6 +137,28 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 
  
 </details>
+<summary>Hard Skills desenvolvidas</summary>
+  
+| Tecnologia/Metodologia | Classificação |
+| ---------------------- | ------------- |
+| GitHub | ★ ★ ★ ★ ★  |
+| Jira Software| ★ ★ ☆ ☆ ☆ |
+| My SQL | ★ ★ ★ ★ ★  |
+| Power BI| ★ ★ ★ ★ ★ |
+| Slack | ★ ★ ★ ★ ☆ |
+| Office | ★ ★ ★ ★ ★ |
+
+</details>
+<summary>Hard Skills desenvolvidas</summary>
+  
+| Tecnologia/Metodologia | Classificação |
+| ---------------------- | ------------- |
+| GitHub | ★ ★ ★ ★ ★  |
+| Jira Software| ★ ★ ☆ ☆ ☆ |
+| My SQL | ★ ★ ★ ★ ★  |
+| Power BI| ★ ★ ★ ★ ★ |
+| Slack | ★ ★ ★ ★ ☆ |
+| Office | ★ ★ ★ ★ ★ |
 
 ![14](https://github.com/lemarcela13/6-Apiequipelyder/assets/144287790/3d49d893-15d6-4bf1-9c23-5f0f7caa31a2)
 
@@ -156,5 +178,27 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 
 
 </details>
+<summary>Soft Skills desenvolvidas</summary>
+
+| Habilidades | Classificação |
+| ---------------------- | ------------- |
+| Colaboração | ★ ★ ★ ★ ★ |
+| Proatividade| ★ ★ ★ ★ ☆ |
+| Pensamento Crítico | ★ ★ ★ ★ ☆|
+| Gerenciamento de Tempo | ★ ★ ★ ☆ ☆ |
+| Adaptabilidade | ★ ★ ★ ☆ ☆ |
+| Resiliência | ★ ★ ★ ★ ☆ |
+
+</details>
+<summary>Soft Skills desenvolvidas</summary>
+
+| Habilidades | Classificação |
+| ---------------------- | ------------- |
+| Colaboração | ★ ★ ★ ★ ★ |
+| Proatividade| ★ ★ ★ ★ ☆ |
+| Pensamento Crítico | ★ ★ ★ ★ ☆|
+| Gerenciamento de Tempo | ★ ★ ★ ☆ ☆ |
+| Adaptabilidade | ★ ★ ★ ☆ ☆ |
+| Resiliência | ★ ★ ★ ★ ☆ |
 
 ![Pink Minimalist Digital Marketing Presentation (2)](https://github.com/lemarcela13/6-Apiequipelyder/assets/144287790/f065a5fd-9905-4382-a6f2-cc905c3365ab)
