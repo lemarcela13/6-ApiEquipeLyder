@@ -90,12 +90,12 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
  <details>
 <summary>SPRINT 2</summary>
 
-- [ ] Alinhamento e feedback;
-- [ ] Dashbord de produtividade mensal de veiculos;
-- [ ] Dashbord evolução de custo por unidade transportada de cada rota;
-- [ ] Gerenciamento projeto Jira;
-- [ ] Atualização repositorio GITHUB.
-- [ ]  Apresentação  SPRINT 2
+- [x] Alinhamento e feedback;
+- [x] Dashbord de produtividade mensal de veiculos;
+- [x] Dashbord evolução de custo por unidade transportada de cada rota;
+- [x] Gerenciamento projeto Jira;
+- [x] Atualização repositorio GITHUB.
+- [x]  Apresentação  SPRINT 2
 
 </details>  
 
@@ -136,7 +136,7 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 | Office | ★ ★ ★ ★ ★ |
 
  
-</details>
+
 <summary>Hard Skills desenvolvidas</summary>
   
 | Tecnologia/Metodologia | Classificação |
@@ -148,7 +148,7 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 | Slack | ★ ★ ★ ★ ☆ |
 | Office | ★ ★ ★ ★ ★ |
 
-</details>
+
 <summary>Hard Skills desenvolvidas</summary>
   
 | Tecnologia/Metodologia | Classificação |
