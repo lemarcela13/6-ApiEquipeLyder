@@ -124,7 +124,7 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 
 
 <details>
-<summary>Hard Skills desenvolvidas</summary>
+<summary> 1º Sprint Hard Skills desenvolvidas</summary>
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
@@ -137,19 +137,19 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 
  
 <details>
-<summary>Hard Skills desenvolvidas</summary>
+<summary>2º Sprint Hard Skills desenvolvidas</summary>
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
 | GitHub | ★ ★ ★ ★ ★  |
-| Jira Software| ★ ★ ☆ ☆ ☆ |
+| Jira Software| ★ ★ ★ ☆ ☆ |
 | My SQL | ★ ★ ★ ★ ★  |
 | Power BI| ★ ★ ★ ★ ★ |
 | Slack | ★ ★ ★ ★ ☆ |
 | Office | ★ ★ ★ ★ ★ |
 
 <details>
-<summary>Hard Skills desenvolvidas</summary>
+<summary>2º Sprint Hard Skills desenvolvidas</summary>
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
@@ -164,7 +164,7 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 
 
 <details>
-<summary>Soft Skills desenvolvidas</summary>
+<summary>1º Sprint Soft Skills desenvolvidas</summary>
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
@@ -178,19 +178,19 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 
 
 <details>
-<summary>Soft Skills desenvolvidas</summary>
+<summary>2º Sprint Soft Skills desenvolvidas</summary>
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
 | Colaboração | ★ ★ ★ ★ ★ |
 | Proatividade| ★ ★ ★ ★ ☆ |
 | Pensamento Crítico | ★ ★ ★ ★ ☆|
-| Gerenciamento de Tempo | ★ ★ ★ ☆ ☆ |
+| Gerenciamento de Tempo | ★ ★ ★ ★ ☆ |
 | Adaptabilidade | ★ ★ ★ ☆ ☆ |
 | Resiliência | ★ ★ ★ ★ ☆ |
 
 <details>
-<summary>Soft Skills desenvolvidas</summary>
+<summary>3º Sprint Soft Skills desenvolvidas</summary>
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
