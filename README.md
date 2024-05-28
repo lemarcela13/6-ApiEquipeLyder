@@ -136,7 +136,7 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 | Office | ★ ★ ★ ★ ★ |
 
  
-
+<details>
 <summary>Hard Skills desenvolvidas</summary>
   
 | Tecnologia/Metodologia | Classificação |
@@ -148,7 +148,7 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 | Slack | ★ ★ ★ ★ ☆ |
 | Office | ★ ★ ★ ★ ★ |
 
-
+<details>
 <summary>Hard Skills desenvolvidas</summary>
   
 | Tecnologia/Metodologia | Classificação |
@@ -177,7 +177,7 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 
 
 
-</details>
+<details>
 <summary>Soft Skills desenvolvidas</summary>
 
 | Habilidades | Classificação |
@@ -189,7 +189,7 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 | Adaptabilidade | ★ ★ ★ ☆ ☆ |
 | Resiliência | ★ ★ ★ ★ ☆ |
 
-</details>
+<details>
 <summary>Soft Skills desenvolvidas</summary>
 
 | Habilidades | Classificação |
