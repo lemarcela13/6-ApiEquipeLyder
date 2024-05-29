@@ -142,7 +142,7 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
 | GitHub | ★ ★ ★ ★ ★  |
-| Jira Software| ★ ★ ★ ☆ ☆ |
+| Jira Software| ★ ★ ★ ★ ☆ |
 | My SQL | ★ ★ ★ ★ ★  |
 | Power BI| ★ ★ ★ ★ ★ |
 | Slack | ★ ★ ★ ★ ☆ |
