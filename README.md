@@ -150,7 +150,7 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 
  
 <details>
-<summary>2º Sprint Hard Skills desenvolvidas</summary>
+<summary>3º Sprint Hard Skills desenvolvidas</summary>
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
