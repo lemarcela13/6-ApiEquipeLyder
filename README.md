@@ -104,11 +104,11 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 <details>
 <summary>SPRINT 3</summary>
       
-- [ ] Alinhamento e feedback;
-- [ ] Dashbord de evolução de custo por km;
-- [ ] Gerenciamento projeto Jira;
-- [ ] Atualização repositorio GITHUB;
-- [ ] Apresentação  SPRINT 3;
+- [x] Alinhamento e feedback;
+- [x] Dashbord de evolução de custo por km;
+- [x] Gerenciamento projeto Jira;
+- [x] Atualização repositorio GITHUB;
+- [x] Apresentação  SPRINT 3;
 
  </details>
 
@@ -148,6 +148,19 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 | Slack | ★ ★ ★ ★ ☆ |
 | Office | ★ ★ ★ ★ ★ |
 
+ 
+<details>
+<summary>2º Sprint Hard Skills desenvolvidas</summary>
+  
+| Tecnologia/Metodologia | Classificação |
+| ---------------------- | ------------- |
+| GitHub | ★ ★ ★ ★ ★  |
+| Jira Software| ★ ★ ★ ★ ☆ |
+| My SQL | ★ ★ ★ ★ ★  |
+| Power BI| ★ ★ ★ ★ ★ |
+| Slack | ★ ★ ★ ★ ★ |
+| Office | ★ ★ ★ ★ ★ |
+
 
 
 ![14](https://github.com/lemarcela13/6-Apiequipelyder/assets/144287790/3d49d893-15d6-4bf1-9c23-5f0f7caa31a2)
@@ -173,9 +186,22 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
 | Colaboração | ★ ★ ★ ★ ★ |
-| Proatividade| ★ ★ ★ ★ ☆ |
+| Proatividade| ★ ★ ★ ★ ★ |
 | Pensamento Crítico | ★ ★ ★ ★ ☆|
-| Gerenciamento de Tempo | ★ ★ ★ ★ ☆ |
+| Gerenciamento de Tempo | ★ ★ ★ ★ ☆|
+| Adaptabilidade | ★ ★ ★ ☆ ☆ |
+| Resiliência | ★ ★ ★ ★ ☆ |
+
+
+<details>
+<summary>3º Sprint Soft Skills desenvolvidas</summary>
+
+| Habilidades | Classificação |
+| ---------------------- | ------------- |
+| Colaboração | ★ ★ ★ ★ ★ |
+| Proatividade| ★ ★ ★ ★ ★ |
+| Pensamento Crítico | ★ ★ ★ ★ ☆|
+| Gerenciamento de Tempo | ★ ★ ★ ★ ★ |
 | Adaptabilidade | ★ ★ ★ ☆ ☆ |
 | Resiliência | ★ ★ ★ ★ ☆ |
 
