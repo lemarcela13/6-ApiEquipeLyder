@@ -33,8 +33,8 @@ SPRINT | PREVISÃO | STATUS|
 |------|--------|------|
 |Kick Off | 10/04/2024 | concluido|
 |01 | 08/05/2024 | concluido|
-|02|  29/05/2024| em progresso |
-|03| 19/06/2024 | a fazer|
+|02|  29/05/2024| concluido|
+|03| 19/06/2024 | concluido|
 |Feira de Soluções|27/06/2024 |a fazer |
 
 
@@ -80,7 +80,7 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 - [x] Tratativa na base de dados;
 - [x] Criação do banco de dados em SQL;
 - [x] Esboço do layout do Power BI;
-- [ ] Apresentação  SPRINT 1.
+- [x] Apresentação  SPRINT 1.
       
  </details>     
  
@@ -134,7 +134,7 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 | Power BI| ★ ★ ★ ★ ★ |
 | Slack | ★ ★ ★ ★ ☆ |
 | Office | ★ ★ ★ ★ ★ |
-
+ </details>
  
 <details>
 <summary>2º Sprint Hard Skills desenvolvidas</summary>
@@ -147,7 +147,7 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 | Power BI| ★ ★ ★ ★ ★ |
 | Slack | ★ ★ ★ ★ ☆ |
 | Office | ★ ★ ★ ★ ★ |
-
+ </details>
  
 <details>
 <summary>3º Sprint Hard Skills desenvolvidas</summary>
@@ -160,7 +160,7 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 | Power BI| ★ ★ ★ ★ ★ |
 | Slack | ★ ★ ★ ★ ★ |
 | Office | ★ ★ ★ ★ ★ |
-
+ </details>
 
 
 ![14](https://github.com/lemarcela13/6-Apiequipelyder/assets/144287790/3d49d893-15d6-4bf1-9c23-5f0f7caa31a2)
@@ -177,7 +177,7 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 | Gerenciamento de Tempo | ★ ★ ★ ☆ ☆ |
 | Adaptabilidade | ★ ★ ★ ☆ ☆ |
 | Resiliência | ★ ★ ★ ★ ☆ |
-
+ </details>
 
 
 <details>
@@ -191,7 +191,7 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 | Gerenciamento de Tempo | ★ ★ ★ ★ ☆|
 | Adaptabilidade | ★ ★ ★ ☆ ☆ |
 | Resiliência | ★ ★ ★ ★ ☆ |
-
+ </details>
 
 <details>
 <summary>3º Sprint Soft Skills desenvolvidas</summary>
@@ -204,7 +204,8 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 | Gerenciamento de Tempo | ★ ★ ★ ★ ★ |
 | Adaptabilidade | ★ ★ ★ ☆ ☆ |
 | Resiliência | ★ ★ ★ ★ ☆ |
+ </details>
 
 
+![tec utilizadas](https://github.com/lemarcela13/6-Apiequipelyder/assets/144287790/d4d6f3e7-02d7-4a8d-8af0-e9f19cb42f37)
 
-![Pink Minimalist Digital Marketing Presentation (2)](https://github.com/lemarcela13/6-Apiequipelyder/assets/144287790/f065a5fd-9905-4382-a6f2-cc905c3365ab)
